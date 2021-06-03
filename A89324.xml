@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The maids petition. To the Honourable members of both Houses. Or The humble petition of many thousands of the well-affected, within and without the lines of communication, virgins, maids, and other young women not married, &amp;c. And in the behalf of the whole kingdome, for their lawfull dayes of recreation. With their declaration, to hold out stifly, and to comply with the apprentices or others for their tollerable tolleration. Presented on Tuesday the 9. of August the 2d. recreation day for apprentices, 1647.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89324</idno><idno type="EEBO-CITATION">99862289</idno>
+  <idno type="VID">114442</idno>
+  <idno type="EEBO-PROQUEST">2240951382</idno>
+  
+            <idno type="STC">Wing M280</idno>
+            <idno type="STC">Thomason E401_26</idno>
+            <idno type="STC">ESTC R201793</idno>
+            <idno type="PROQUEST">99862289</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862289e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89324)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114442)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The maids petition. To the Honourable members of both Houses. Or The humble petition of many thousands of the well-affected, within and without the lines of communication, virgins, maids, and other young women not married, &amp;c. And in the behalf of the whole kingdome, for their lawfull dayes of recreation. With their declaration, to hold out stifly, and to comply with the apprentices or others for their tollerable tolleration. Presented on Tuesday the 9. of August the 2d. recreation day for apprentices, 1647.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for AL,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>in the yeer of Englands freedome and liberty, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Recreation --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Women domestics --  Legal staus, laws, etc. --  England --  Humor --  Early works to 1800.</term>
+               <term type="topical_term">Apprentices --  Legal status, laws, etc. --  England --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114442:1"/>
+            <p>The MAIDS Petition. To the Honourable Members of both Houses. OR The Humble PETITION of many Thousands of the well-affected, within and without the lines of Communication, Virgins, Maids, and other young Women not married, &amp;c. And in the behalf of the whole Kingdome, for their law<g ref="char:EOLhyphen"/>full dayes of Recreation. With their Declaration, to hold out stifly and to com<g ref="char:EOLhyphen"/>ply with the Apprentices or others for their tollerable Tolleration.</p>
+            <p>Presented on Tuesday the 9, of August the 2<seg rend="sup">d</seg>. Recreation day for Apprentices, 1647.</p>
+            <figure>
+               <figDesc>depiction of maid servant</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>AL,</hi> in the yeer of <hi>Englands</hi> freedome and Liberty, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:114442:2"/>
+            <pb n="1" facs="tcp:114442:2"/>
+            <head>The MAYDS Petition.</head>
+            <div type="petition">
+               <p>
+                  <seg rend="decorInit">W</seg>Ee the Mayd-servants in generall of the City of <hi>London,</hi> &amp; in behalfe of the uni<g ref="char:EOLhyphen"/>versall sisterhood of the same servitudi<g ref="char:EOLhyphen"/>nous ranke and quality; beeing fellow-feelers of the like underlying condition (not meaning the naturall posture in reference to wed<g ref="char:EOLhyphen"/>lock, which is very tolerable) but that uncessant drudgery essentially relating our too much kitting oc<g ref="char:EOLhyphen"/>cupation or family function by reason of the un<g ref="char:EOLhyphen"/>controlable impositions of our surly Madams; who in despite to all bodily respite, will perpetually enjoyn sencelesse and fruitlesse motions without intermission. Upon these and the like considerations and to avoid all strodling or stragling intentions or actions, on dayes consecrate:) Humbly prostrate our selves to the ho<g ref="char:EOLhyphen"/>nourable members of both houses, in the way of Pe<g ref="char:EOLhyphen"/>titionin for a comformity of Recreation with the Ap<g ref="char:EOLhyphen"/>prentises, which doth appeare very modest, for al<g ref="char:EOLhyphen"/>though their indentures do engage them to stand lon<g ref="char:EOLhyphen"/>ger upon constant duty to one particular Master, yet things happen in so that upon the point we oftentimes lye longer under odde services in respect of diverse Mistrisses, likewise the primary priviledge of rationall creatures is to be sociable, being great a benefit to rea<g ref="char:EOLhyphen"/>son, therefore great reason that wee should have this benefit; Which we professe cannot be attained with<g ref="char:EOLhyphen"/>out
+<pb n="2" facs="tcp:114442:3"/> the egresse and regresse one with each other, not meaning the Convinticle confinement of in and in: harmelesse love is multiplyed by communion, and scornes limitation, being of a diffusive more then an infusive nature: therefore our desire is, to shut up out Kitching doores from eight in the morning, till eight at night, every second <hi>Tuesday</hi> in the moneth, unlesse some extraordinary busines happen (betwixt) to keep them open: (if so to enjoy an equivalent and Con<g ref="char:EOLhyphen"/>sciencious liberty another day, but our City dames are so nice that they will put in any thing for an exception, and in case of rainy weather, they may detain us: there<g ref="char:EOLhyphen"/>fore we petition the members that we may not be thus handled, but that they will be pleased absolutely to in<g ref="char:EOLhyphen"/>act what they intend (onely) (except before excepted) and so much the rather, because of the additionall foul weather that we shall have at home, likewise the low<g ref="char:EOLhyphen"/>ring of a scold is worse then the lowring of a skie. Therefore let it raine, haile, snow, or blow never so fast; we would have leave, at our discretion to take up our coats, and steere our course as we please, and if vegetable creatures cannot blossom without watry di<g ref="char:EOLhyphen"/>stillation, how can sensible, both proceeding from the earth. These being granted, we do engage our selves under penalty of being committed with or by any Iustice of the Peace, to abandon all uncivil meetings, to speake or do all things modestly, by talking or walking by couples, not committing any unnaturall or unlawfull exploit by way of ryot, beeing a three<g ref="char:EOLhyphen"/>fold mischiefe, drinking no more then will satisfie nature, by way of sypping, abhorring that staggering
+<pb n="3" facs="tcp:114442:3"/> vice of Drunkenesse, which argues so much bodily weaknesse: To which stream of iniquity we may be a convenient stop, to dam up there overflowing cupping with importune and opportune interpositions; like<g ref="char:EOLhyphen"/>wise, we may so qualifie their Recreations that they will bee altogether indisposed to play longer then from eight in the morning to eight at night, either at Cards, Dice, or Bowles: Wee may bee such a rub in the way, but least wee should not hold Byas with our Mistrisses, wee will hold our tongues, humbly craving, that you would at length bee pleased to stand to what wee so reasonably desire: Till then, wee'le remaine your Vassalized Virgins.</p>
+            </div>
+            <div type="declaration">
+               <pb n="4" facs="tcp:114442:4"/>
+               <head>The Maids Declaration.</head>
+               <p>WEe the subordinate subjects of this Common<g ref="char:EOLhyphen"/>wealth, doe declare our selves (by reason of the Epidemicall difference) to joyne with the Ap<g ref="char:EOLhyphen"/>prentices of the City of <hi>London,</hi> not by way of com<g ref="char:EOLhyphen"/>binatory siding, but down-right honestly intending the increase of the City force, approving their loc<g ref="char:EOLhyphen"/>king in the Members untill they made themselves voyd: By way of nulling the Proclamation of Trea<g ref="char:EOLhyphen"/>son, which was meerly ravisht from the Armifyed Parliament: The same ravishment being taken into serious consideration, doth justly put Us into a bodily feare, beeing the weaker vessels &amp; therefore the more subject to an arbitrary leake, which is below the de<g ref="char:EOLhyphen"/>gree of an Ammunition: Whereupon to prevent all hostile incursion, the Apprentices shall freely enter us by way of listing, and if they doe advance (which wee hope will never be beyond the line of Communi<g ref="char:EOLhyphen"/>cation) wee shall bee vilely troubled to secure our forts from the multitude of <hi>Tub-preachers,</hi> who will never bee out of exercise, and doubtlesse the <hi>Coblers</hi> of single-soled Consciences, which they call tender, with their independant pumps on: Meaning liberty will eyer bee skipping into our Trenches; who being of an upright Occupation, may underlay Us at last. <hi>Patience</hi> the <hi>Taylor</hi> will goe nigh to make us mad with his Heriticall Thimble. <hi>Bat</hi> the foule purblind Coxcombe will never leave fluttering about our scon<g ref="char:EOLhyphen"/>ces
+<pb n="5" facs="tcp:114442:4"/> in the way of a Spy. <hi>Pricheares</hi> the <hi>Wyerdra<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er,</hi> who was formerly frighted out of <hi>Foster</hi> lane by the spirit of a Pudding-pye, will tempt us to a surrender with his stiffe-standing Longitudes. <hi>Bulcher</hi> the <hi>Chic<g ref="char:EOLhyphen"/>king</hi> man with his newly hatch Errors will docu<g ref="char:EOLhyphen"/>mentise our Bulwarks alive or dead. <hi>Humble</hi> the <hi>Hostler,</hi> with his scrubbing titillations will seeke to undermine. <hi>Wyat</hi> the <hi>Prick-louse,</hi> will nittifie our Corps with the small shot of reproofe; the <hi>Mille<g ref="char:EOLhyphen"/>nary,</hi> may threaten to bee a thousand strong: But not this yeare the slye <hi>Anabaptist</hi> must needs pretend Dipping, and so sneake privily into us to Cast our water, that hee may know where our strength lies: Not unlike the late mundifying of our late Members, this fellow and a Jesuite are the Divels quacksalvers. The innocent <hi>Adamite,</hi> though hee be stript of all offensive Stratagems, yet he is ever prepared to beat up our quarters, and having naked truth, for his Standard will often bee ready to enter our sensative out-workes, yet the rogue quickly spends his Ammunition, carry<g ref="char:EOLhyphen"/>ing but one charge at a time, therefore we feare not his encounter. The <hi>Seekers</hi> may disturbe our night watch beeing ever groping in the darke, but their weake judgements will reach no further. The <hi>Brow<g ref="char:EOLhyphen"/>nist</hi> may come flourishing with his new Creed and trusty colour: thinking to ravish our beliefe by way of Articles, but wee bid defyance to all treaty. And in spight of the Antipolicall crew of them, according to our feminine faculty, wee will keep them at a distanti<g ref="char:EOLhyphen"/>call posture, vowing a Mayden magnimity in oppositi<g ref="char:EOLhyphen"/>on to all Convernicling conjugation, sostanding a tiptoe
+<pb n="6" facs="tcp:114442:5"/> upon the conscientious liberty of our unvassalized Vir<g ref="char:EOLhyphen"/>ginity wee here unanimously Vote with our fore-run<g ref="char:EOLhyphen"/>ners, for King <hi>Charles</hi> his comming home and resi<g ref="char:EOLhyphen"/>dence with his Parliament, being free and unarmifyed as the onely conclusive meanes against fictions and fac<g ref="char:EOLhyphen"/>tions, our flesh and bloud cannot endure, base by at<g ref="char:EOLhyphen"/>tempts, therefore stand to it fellow doers and sufferers.</p>
+               <closer>
+                  <salute>Wee will live and dye, stand and fall with you and for you.</salute>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
